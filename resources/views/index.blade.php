@@ -1,15 +1,16 @@
 @extends('layouts.app')
 
-@section('title', 'NFT Marketplace & Digital Art Platform | Appiz')
+@section('title', 'Eversoft | Leading Software Development Company in Sri Lanka')
 @section('meta')
-    <meta name="description" content="Discover, collect, and sell extraordinary NFTs on Appiz. Join the leading digital marketplace for crypto collectibles and non-fungible tokens.">
-    <meta name="keywords" content="NFT, marketplace, crypto, digital art, collectibles, Appiz, blockchain">
+    <meta name="description" content="Eversoft is a leading software development company in Sri Lanka, delivering innovative solutions in web, mobile and enterprise applications. Partner with us for cutting-edge software solutions.">
+    <meta name="keywords" content="software development, web development, mobile apps, enterprise solutions, IT company Sri Lanka, Eversoft, custom software">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta property="og:title" content="NFT Marketplace & Digital Art Platform | Appiz">
-    <meta property="og:description" content="Discover, collect, and sell extraordinary NFTs on Appiz. Join the leading digital marketplace for crypto collectibles and non-fungible tokens.">
+    <meta property="og:title" content="Leading Software Development Company in Sri Lanka | Eversoft">
+    <meta property="og:description" content="Eversoft is a leading software development company in Sri Lanka, delivering innovative solutions in web, mobile and enterprise applications. Partner with us for cutting-edge software solutions.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ url('/') }}">
-    <meta property="og:image" content="{{ asset('/assets/img/logo/logo-2.svg') }}">
+    <meta property="og:image" content="{{ asset('/og-image.webp') }}">
+    <meta property="og:site_name" content="Eversoft">
 @endsection
 
 @section('content')

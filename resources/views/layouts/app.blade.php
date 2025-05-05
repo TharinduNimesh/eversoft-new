@@ -13,7 +13,7 @@
     <!--====== Title ======-->
     <title>@yield('title', 'Appiz - Modern Multipurpose Landing Page HTML Template')</title>
     <!--====== Favicon ======-->
-    <link rel="shortcut icon" href="/assets/img/logo/favicon.png" type="images/x-icon">
+    <link rel="shortcut icon" href="/assets/img/logo/favicon.ico" type="images/x-icon">
     <!--====== CSS Here ======-->
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/font-awesome.min.css">
